@@ -1,16 +1,16 @@
 # Hi, I'm Yue 👋
 
 **Software Engineer | Applied AI · Backend · Product Engineering**  
-🎓 MCS @ UIUC (2028) · BSc in CS @ UoL (First Class Honours)  
-🔎 Seeking **Summer / Fall 2027** SWE & AI Engineering Internships
+🎓 **MCS @ UIUC '28** · BSc CS @ University of London (First Class Honours)  
+🔎 **Open to Summer/Fall 2027 Internships**
 
 ### 👩🏻 About Me
 
 I build software to solve problems I've seen in the real world.
 
-Before starting my MCS at UIUC, I spent six years working at a law firm. I wasn't hired to write code, but I saw lawyers struggling with repetitive workflows, so I built a legal practice management app used by **~20 lawyers across hundreds of cases for 3 years**.
+Before starting my MCS at UIUC, I spent six years working at a law firm. I wasn't hired to write code, but I saw lawyers struggling with repetitive workflows, so I built a legal practice management app that was eventually used by **~20 lawyers across hundreds of cases for 3 years**.
 
-That experience shaped how I approach engineering: **understand people, find the real problem, and build something that makes their lives easier.** I enjoy bridging technical and non-technical worlds, turning ambiguous needs into working software.
+I enjoy working at the intersection of **engineering, product thinking, and people**: spotting real-world problems, communicating across disciplines, and turning ambiguous needs into working software.
 
 ### 🛠️ Things I've Built
 
